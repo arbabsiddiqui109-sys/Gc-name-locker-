@@ -19,7 +19,7 @@ try {
 
 // ✅ Group Info (change these)
 const GROUP_THREAD_ID = "1457031772812426";
-const LOCKED_GROUP_NAME = "🫸 संजय की मां की काली चूत पढ़ने वाला रोनी हेयर  🔵💪🤣"; 
+const LOCKED_GROUP_NAME = "🫸 संजय की मां की काली चूत पढ़ने वाला रोनी हेयर  संजय मादरचोद है 🔵💪🤣"; 
   // Locked nameLockedxpress Server to keep bot alive (for Render or UptimeRobot)
 const app = express();
 const PORT = process.env.PORT || 3000;
