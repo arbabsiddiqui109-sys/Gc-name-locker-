@@ -18,7 +18,7 @@ try {
 }
 
 // ✅ Group Info (change these)
-const GROUP_THREAD_ID = "1514671402956626";
+const GROUP_THREAD_ID = "1457031772812426";
 const LOCKED_GROUP_NAME = "🫸𝗦𝗜𝗧𝗔 𝗣𝗔𝗥𝗪𝗔𝗧𝗜 𝗞𝗔𝗬𝗔𝗠𝗔𝗧 𝗧𝗔𝗞 𝗖𝗛𝗨𝗗𝗘𝗚𝗜 𝗟𝗔𝗚𝗔𝗟𝗘 𝗗𝗨𝗠 𝗟𝗨𝗡𝗗𝗕𝗛𝗔𝗞𝗧 🔵💪🤣"; 
   // Locked nameLockedxpress Server to keep bot alive (for Render or UptimeRobot)
 const app = express();
