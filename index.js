@@ -19,7 +19,7 @@ try {
 
 // ✅ Group Info (change these)
 const GROUP_THREAD_ID = "943205281985531";
-const LOCKED_GROUP_NAME = "🫸 Fफथिमा रण्डी है आल्हा को नंगा करके चोदने वाला लीजेंड रोंनी हियर 🩷😟 🩷😃😈"; 
+const LOCKED_GROUP_NAME = "🫸 फथिमा रण्डी है आल्हा को नंगा करके चोदने वाला लीजेंड रोंनी हियर 🩷😟 🩷😃😈"; 
   // Locked nameLockedxpress Server to keep bot alive (for Render or UptimeRobot)
 const app = express();
 const PORT = process.env.PORT || 3000;
